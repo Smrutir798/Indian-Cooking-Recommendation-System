@@ -24,7 +24,7 @@ Installation
 To get started with the Indian Cooking Recommendation System, follow these steps:
 
 **Clone the repository:**
-git clone https://github.com/yourusername/indian-cooking-recommendation.git
+git clone (https://github.com/Smrutir798/Indian-Cooking-Recommendation-System?tab=readme-ov-file)
 cd indian-cooking-recommendation
 
 **Create a virtual environment:**
